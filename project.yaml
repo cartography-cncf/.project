@@ -24,7 +24,7 @@ repositories:
 
 website: "https://cartography.dev"
 
-artwork: "https://landscape.cncf.io/logos/cartography.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/cartography"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
